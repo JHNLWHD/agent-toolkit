@@ -1,0 +1,4 @@
+interface:
+  display_name: "Start Work"
+  short_description: "Plan, implement, and report council readiness"
+  default_prompt: "Use $start-work to select planning depth, implement with OpenAI primary, and deliver the applicable council report at the authorized endpoint."
